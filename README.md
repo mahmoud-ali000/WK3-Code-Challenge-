@@ -1,7 +1,7 @@
 # Code_challenge
 
 # Author
-mahmoud ali
+mahmoud ali.
 
 # Description
 This repository has 3 code challenges. The first prompts the user to input student marks.Then outputs the correct grade.
@@ -20,7 +20,7 @@ Change Directory: [cd code-challenge]
 
 
 # Contact Informantion
-Incase of any enquiries or contributions, be sure to email me at [mahmoudali1001@gmail.com]()
+Incase of any enquiries or contributions, be sure to email me at [mahmoud.ali@student.moringaschool.com]()
 
 # License
       MIT Licence
